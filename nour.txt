@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 bonjour,je suis nour
+=======
+hello world
+hello world
+hello world
+hello world
+>>>>>>> 946bba49e912faab1ea24d25236d9d626637641f
